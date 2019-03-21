@@ -13,6 +13,6 @@ This is a project to analyze the price of bitcoin, comparing if the current pric
 
 Once our code is up and running on the Raspberry Pi, inside the balena dashboard you will be able to see the current price and if it is higher or lower than the opening price.
 
-A complete step-by-step tutorial can be found at [https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
-
 ![btc traffic light](https://github.com/balena-io-playground/balena-btc-price-tracker/blob/master/img/combined.jpg?raw=true)
+
+###A complete step-by-step tutorial can be found at [https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
