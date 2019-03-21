@@ -15,4 +15,4 @@ Once our code is up and running on the Raspberry Pi, inside the balena dashboard
 
 ![btc traffic light](https://github.com/balena-io-playground/balena-btc-price-tracker/blob/master/img/combined.jpg?raw=true)
 
-###A complete step-by-step tutorial can be found at [https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
+### A complete step-by-step tutorial can be found at [https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
